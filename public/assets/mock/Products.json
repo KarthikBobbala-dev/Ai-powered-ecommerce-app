@@ -1,0 +1,1024 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "iPhone 17",
+      "category": "Mobiles",
+      "brand": "Apple",
+      "price": 79999,
+      "originalPrice": 84999,
+      "discount": 6,
+      "rating": 4.7,
+      "reviewCount": 1250,
+      "stock": 25,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Apple's latest smartphone with pro-level performance",
+      "description": "Latest Apple smartphone with powerful performance and advanced camera system.",
+      "features": [
+        "6.3 inch OLED Display",
+        "A19 Chip",
+        "48MP Main Camera",
+        "12GB RAM",
+        "256GB Storage",
+        "5G"
+      ],
+      "colors": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1631464572212-90ae6f002ef0?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "smartphone",
+        "apple",
+        "5g",
+        "camera",
+        "premium"
+      ],
+      "reviews": [
+        {
+          "user": "Rahul",
+          "rating": 5,
+          "comment": "Excellent camera and performance."
+        },
+        {
+          "user": "Amit",
+          "rating": 4,
+          "comment": "Great phone but slightly expensive."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Samsung Galaxy S26",
+      "category": "Mobiles",
+      "brand": "Samsung",
+      "price": 69999,
+      "originalPrice": 74999,
+      "discount": 7,
+      "rating": 4.6,
+      "reviewCount": 980,
+      "stock": 30,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Premium Samsung smartphone with an immersive AMOLED display",
+      "description": "Premium Samsung smartphone with AMOLED display and advanced camera.",
+      "features": [
+        "6.5 inch AMOLED Display",
+        "Snapdragon Processor",
+        "50MP Camera",
+        "12GB RAM",
+        "256GB Storage",
+        "5G"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Green"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "smartphone",
+        "samsung",
+        "5g",
+        "amoled",
+        "camera"
+      ],
+      "reviews": [
+        {
+          "user": "Vikram",
+          "rating": 5,
+          "comment": "Fantastic display and camera."
+        },
+        {
+          "user": "Suresh",
+          "rating": 4,
+          "comment": "Battery life is very good."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "OnePlus 14",
+      "category": "Mobiles",
+      "brand": "OnePlus",
+      "price": 54999,
+      "originalPrice": 59999,
+      "discount": 8,
+      "rating": 4.5,
+      "reviewCount": 760,
+      "stock": 40,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "High-performance Android phone with ultra-fast charging",
+      "description": "High-performance Android smartphone with fast charging.",
+      "features": [
+        "6.7 inch AMOLED Display",
+        "Snapdragon Processor",
+        "50MP Camera",
+        "12GB RAM",
+        "256GB Storage",
+        "100W Fast Charging"
+      ],
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "smartphone",
+        "oneplus",
+        "fast-charging",
+        "gaming"
+      ],
+      "reviews": [
+        {
+          "user": "Arjun",
+          "rating": 5,
+          "comment": "Very fast performance."
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "name": "MacBook Air M5",
+      "category": "Laptops",
+      "brand": "Apple",
+      "price": 109999,
+      "originalPrice": 119999,
+      "discount": 8,
+      "rating": 4.8,
+      "reviewCount": 870,
+      "stock": 15,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Lightweight Apple laptop for work and creativity",
+      "description": "Lightweight Apple laptop designed for productivity and development.",
+      "features": [
+        "13.6 inch Retina Display",
+        "Apple M5 Chip",
+        "16GB RAM",
+        "512GB SSD",
+        "18 Hours Battery",
+        "Wi-Fi 7"
+      ],
+      "colors": [
+        "Silver",
+        "Midnight",
+        "Starlight"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1723052986884-21dcafdae0c0?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "laptop",
+        "apple",
+        "programming",
+        "developer",
+        "premium"
+      ],
+      "reviews": [
+        {
+          "user": "Kiran",
+          "rating": 5,
+          "comment": "Perfect laptop for development."
+        },
+        {
+          "user": "Neha",
+          "rating": 5,
+          "comment": "Very lightweight and excellent battery."
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Dell XPS 15",
+      "category": "Laptops",
+      "brand": "Dell",
+      "price": 124999,
+      "originalPrice": 134999,
+      "discount": 7,
+      "rating": 4.6,
+      "reviewCount": 620,
+      "stock": 12,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "title": "Premium Windows laptop built for professionals",
+      "description": "Premium Windows laptop for developers and professionals.",
+      "features": [
+        "15.6 inch OLED Display",
+        "Intel Core Ultra 7",
+        "32GB RAM",
+        "1TB SSD",
+        "RTX Graphics",
+        "Wi-Fi 7"
+      ],
+      "colors": [
+        "Silver"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "laptop",
+        "dell",
+        "developer",
+        "programming",
+        "professional"
+      ],
+      "reviews": [
+        {
+          "user": "Ravi",
+          "rating": 5,
+          "comment": "Excellent laptop for development."
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Lenovo Legion 7",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 139999,
+      "originalPrice": 149999,
+      "discount": 6,
+      "rating": 4.7,
+      "reviewCount": 530,
+      "stock": 10,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Powerful gaming laptop for immersive performance",
+      "description": "High-performance gaming laptop with dedicated graphics.",
+      "features": [
+        "16 inch QHD Display",
+        "Intel Core Ultra 9",
+        "32GB RAM",
+        "1TB SSD",
+        "RTX 5070",
+        "240Hz Display"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "laptop",
+        "gaming",
+        "lenovo",
+        "rtx",
+        "high-performance"
+      ],
+      "reviews": [
+        {
+          "user": "Manoj",
+          "rating": 5,
+          "comment": "Excellent gaming performance."
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "name": "iPad Pro",
+      "category": "Tablets",
+      "brand": "Apple",
+      "price": 99999,
+      "originalPrice": 109999,
+      "discount": 9,
+      "rating": 4.8,
+      "reviewCount": 740,
+      "stock": 20,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Professional tablet with a stunning display",
+      "description": "Professional tablet with powerful performance and stunning display.",
+      "features": [
+        "12.9 inch OLED Display",
+        "Apple M5 Chip",
+        "12GB RAM",
+        "512GB Storage",
+        "Face ID",
+        "Apple Pencil Support"
+      ],
+      "colors": [
+        "Space Gray",
+        "Silver"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "tablet",
+        "apple",
+        "professional",
+        "drawing"
+      ],
+      "reviews": [
+        {
+          "user": "Anjali",
+          "rating": 5,
+          "comment": "Amazing display and performance."
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Samsung Galaxy Tab S11",
+      "category": "Tablets",
+      "brand": "Samsung",
+      "price": 69999,
+      "originalPrice": 74999,
+      "discount": 6,
+      "rating": 4.6,
+      "reviewCount": 490,
+      "stock": 25,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "Premium Android tablet for work and entertainment",
+      "description": "Premium Android tablet suitable for entertainment and productivity.",
+      "features": [
+        "12.4 inch AMOLED",
+        "12GB RAM",
+        "256GB Storage",
+        "S Pen",
+        "5G",
+        "120Hz Display"
+      ],
+      "colors": [
+        "Graphite",
+        "Silver"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "tablet",
+        "samsung",
+        "amoled",
+        "s-pen",
+        "5g"
+      ],
+      "reviews": [
+        {
+          "user": "Prakash",
+          "rating": 5,
+          "comment": "Excellent tablet for entertainment."
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Sony WH-1000XM6",
+      "category": "Audio",
+      "brand": "Sony",
+      "price": 34999,
+      "originalPrice": 39999,
+      "discount": 12,
+      "rating": 4.8,
+      "reviewCount": 1520,
+      "stock": 35,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Premium wireless headphones with immersive noise cancellation",
+      "description": "Premium wireless headphones with industry-leading noise cancellation.",
+      "features": [
+        "Active Noise Cancellation",
+        "30 Hours Battery",
+        "Bluetooth 5.4",
+        "Hi-Res Audio",
+        "Multipoint Connection",
+        "Fast Charging"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1612858249816-5a91a9fb9886?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "headphones",
+        "sony",
+        "noise-cancellation",
+        "wireless",
+        "music"
+      ],
+      "reviews": [
+        {
+          "user": "Rahul",
+          "rating": 5,
+          "comment": "Best noise cancellation I have used."
+        },
+        {
+          "user": "Deepak",
+          "rating": 5,
+          "comment": "Excellent sound quality."
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Apple AirPods Pro",
+      "category": "Audio",
+      "brand": "Apple",
+      "price": 24999,
+      "originalPrice": 27999,
+      "discount": 10,
+      "rating": 4.7,
+      "reviewCount": 2100,
+      "stock": 50,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Wireless earbuds with active noise cancellation",
+      "description": "Premium wireless earbuds with active noise cancellation.",
+      "features": [
+        "Active Noise Cancellation",
+        "Transparency Mode",
+        "USB-C Charging",
+        "Spatial Audio",
+        "Sweat Resistant",
+        "24 Hours Battery"
+      ],
+      "colors": [
+        "White"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "earbuds",
+        "apple",
+        "wireless",
+        "noise-cancellation",
+        "music"
+      ],
+      "reviews": [
+        {
+          "user": "Rohit",
+          "rating": 5,
+          "comment": "Excellent earbuds for iPhone users."
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Sony Bravia 65 inch OLED",
+      "category": "Televisions",
+      "brand": "Sony",
+      "price": 149999,
+      "originalPrice": 169999,
+      "discount": 12,
+      "rating": 4.8,
+      "reviewCount": 450,
+      "stock": 8,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "title": "Cinematic OLED television for a premium home theatre",
+      "description": "Premium OLED television with cinematic picture quality.",
+      "features": [
+        "65 inch OLED",
+        "4K Resolution",
+        "120Hz Refresh Rate",
+        "Dolby Vision",
+        "Dolby Atmos",
+        "Google TV"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "tv",
+        "sony",
+        "oled",
+        "4k",
+        "home-theater"
+      ],
+      "reviews": [
+        {
+          "user": "Sanjay",
+          "rating": 5,
+          "comment": "Amazing picture quality."
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Samsung 55 inch QLED",
+      "category": "Televisions",
+      "brand": "Samsung",
+      "price": 79999,
+      "originalPrice": 89999,
+      "discount": 11,
+      "rating": 4.6,
+      "reviewCount": 720,
+      "stock": 15,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "4K QLED smart television with vivid colors",
+      "description": "4K QLED smart television with vibrant colors.",
+      "features": [
+        "55 inch QLED",
+        "4K Resolution",
+        "120Hz",
+        "HDR10+",
+        "Dolby Atmos",
+        "Smart TV"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "tv",
+        "samsung",
+        "qled",
+        "4k",
+        "smart-tv"
+      ],
+      "reviews": [
+        {
+          "user": "Vijay",
+          "rating": 5,
+          "comment": "Great TV for movies and gaming."
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "name": "Sony Alpha A7 V",
+      "category": "Cameras",
+      "brand": "Sony",
+      "price": 189999,
+      "originalPrice": 199999,
+      "discount": 5,
+      "rating": 4.9,
+      "reviewCount": 310,
+      "stock": 6,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "title": "Professional mirrorless camera for photo and video",
+      "description": "Professional mirrorless camera designed for photography and video.",
+      "features": [
+        "Full Frame Sensor",
+        "33MP Resolution",
+        "4K Video",
+        "AI Autofocus",
+        "Image Stabilization",
+        "Wi-Fi"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "camera",
+        "sony",
+        "mirrorless",
+        "photography",
+        "video"
+      ],
+      "reviews": [
+        {
+          "user": "Akash",
+          "rating": 5,
+          "comment": "Excellent autofocus and image quality."
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "name": "Apple Watch Series 11",
+      "category": "Wearables",
+      "brand": "Apple",
+      "price": 44999,
+      "originalPrice": 49999,
+      "discount": 10,
+      "rating": 4.7,
+      "reviewCount": 1120,
+      "stock": 30,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Advanced smartwatch for fitness and everyday health",
+      "description": "Advanced smartwatch with fitness and health tracking features.",
+      "features": [
+        "AMOLED Display",
+        "Heart Rate Monitoring",
+        "GPS",
+        "Sleep Tracking",
+        "Water Resistant",
+        "iPhone Integration"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Gold"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "smartwatch",
+        "apple",
+        "fitness",
+        "wearable",
+        "gps"
+      ],
+      "reviews": [
+        {
+          "user": "Nikhil",
+          "rating": 5,
+          "comment": "Very useful for fitness tracking."
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Samsung Galaxy Watch 8",
+      "category": "Wearables",
+      "brand": "Samsung",
+      "price": 29999,
+      "originalPrice": 34999,
+      "discount": 14,
+      "rating": 4.5,
+      "reviewCount": 640,
+      "stock": 35,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "Feature-rich Android smartwatch with health tracking",
+      "description": "Feature-rich Android smartwatch with health tracking.",
+      "features": [
+        "AMOLED Display",
+        "GPS",
+        "Heart Rate Monitor",
+        "Sleep Tracking",
+        "5ATM Water Resistance",
+        "Android Support"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "smartwatch",
+        "samsung",
+        "fitness",
+        "android"
+      ],
+      "reviews": [
+        {
+          "user": "Varun",
+          "rating": 5,
+          "comment": "Good smartwatch for Android users."
+        }
+      ]
+    },
+    {
+      "id": 801,
+      "name": "PlayStation 5 Pro",
+      "category": "Gaming",
+      "brand": "Sony",
+      "price": 69999,
+      "originalPrice": 74999,
+      "discount": 6,
+      "rating": 4.9,
+      "reviewCount": 1800,
+      "stock": 12,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Next-generation console gaming with advanced graphics",
+      "description": "High-performance gaming console with advanced graphics.",
+      "features": [
+        "4K Gaming",
+        "Ray Tracing",
+        "SSD Storage",
+        "120Hz Support",
+        "Wi-Fi 7",
+        "HDR"
+      ],
+      "colors": [
+        "White"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "gaming",
+        "console",
+        "playstation",
+        "4k",
+        "sony"
+      ],
+      "reviews": [
+        {
+          "user": "Ramesh",
+          "rating": 5,
+          "comment": "Amazing gaming performance."
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "name": "Xbox Series X",
+      "category": "Gaming",
+      "brand": "Microsoft",
+      "price": 54999,
+      "originalPrice": 59999,
+      "discount": 8,
+      "rating": 4.7,
+      "reviewCount": 1200,
+      "stock": 18,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "Powerful console gaming in stunning 4K",
+      "description": "Powerful gaming console for 4K gaming.",
+      "features": [
+        "4K Gaming",
+        "1TB SSD",
+        "120 FPS",
+        "HDR",
+        "Dolby Vision",
+        "Game Pass"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "gaming",
+        "console",
+        "xbox",
+        "4k",
+        "microsoft"
+      ],
+      "reviews": [
+        {
+          "user": "Sathish",
+          "rating": 5,
+          "comment": "Excellent console with Game Pass."
+        }
+      ]
+    },
+    {
+      "id": 901,
+      "name": "LG 1.5 Ton Inverter AC",
+      "category": "Home Appliances",
+      "brand": "LG",
+      "price": 44999,
+      "originalPrice": 49999,
+      "discount": 10,
+      "rating": 4.5,
+      "reviewCount": 890,
+      "stock": 20,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Energy-efficient air conditioner with smart cooling",
+      "description": "Energy-efficient inverter air conditioner with smart cooling.",
+      "features": [
+        "1.5 Ton",
+        "5 Star Rating",
+        "Inverter Compressor",
+        "Wi-Fi Control",
+        "Fast Cooling",
+        "Low Noise"
+      ],
+      "colors": [
+        "White"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1631545806609-4b8f9a4c0f4d?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "ac",
+        "lg",
+        "home-appliance",
+        "inverter",
+        "5-star"
+      ],
+      "reviews": [
+        {
+          "user": "Ravi",
+          "rating": 5,
+          "comment": "Excellent cooling and low electricity usage."
+        }
+      ]
+    },
+    {
+      "id": 902,
+      "name": "Samsung 8kg Front Load Washing Machine",
+      "category": "Home Appliances",
+      "brand": "Samsung",
+      "price": 37999,
+      "originalPrice": 42999,
+      "discount": 12,
+      "rating": 4.6,
+      "reviewCount": 620,
+      "stock": 18,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "Smart front-load washing machine for effortless laundry",
+      "description": "Smart front-load washing machine with multiple wash modes.",
+      "features": [
+        "8KG Capacity",
+        "5 Star Rating",
+        "AI Wash",
+        "Eco Bubble",
+        "Wi-Fi",
+        "Inverter Motor"
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1626806787461-102c1b0d5f17?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "washing-machine",
+        "samsung",
+        "home-appliance",
+        "ai",
+        "inverter"
+      ],
+      "reviews": [
+        {
+          "user": "Priya",
+          "rating": 5,
+          "comment": "Very good washing performance."
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "Apple 20W USB-C Charger",
+      "category": "Accessories",
+      "brand": "Apple",
+      "price": 1999,
+      "originalPrice": 2299,
+      "discount": 13,
+      "rating": 4.6,
+      "reviewCount": 2300,
+      "stock": 100,
+      "inStock": true,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "title": "Compact USB-C power adapter for fast charging",
+      "description": "Compact USB-C power adapter for fast charging.",
+      "features": [
+        "20W Fast Charging",
+        "USB-C",
+        "Compact Design",
+        "Universal Compatibility"
+      ],
+      "colors": [
+        "White"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "charger",
+        "apple",
+        "usb-c",
+        "fast-charging"
+      ],
+      "reviews": [
+        {
+          "user": "Arun",
+          "rating": 5,
+          "comment": "Small and fast charger."
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "Logitech MX Master 4",
+      "category": "Accessories",
+      "brand": "Logitech",
+      "price": 8999,
+      "originalPrice": 9999,
+      "discount": 10,
+      "rating": 4.8,
+      "reviewCount": 980,
+      "stock": 45,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "title": "Premium wireless mouse for precise productivity",
+      "description": "Premium wireless mouse designed for professionals.",
+      "features": [
+        "Wireless",
+        "Bluetooth",
+        "Multi Device",
+        "USB-C Charging",
+        "Ergonomic Design",
+        "High Precision Sensor"
+      ],
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "mouse",
+        "logitech",
+        "wireless",
+        "productivity",
+        "developer"
+      ],
+      "reviews": [
+        {
+          "user": "Karthik",
+          "rating": 5,
+          "comment": "Excellent mouse for development and office work."
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "Keychron K8 Mechanical Keyboard",
+      "category": "Accessories",
+      "brand": "Keychron",
+      "price": 7999,
+      "originalPrice": 8999,
+      "discount": 11,
+      "rating": 4.7,
+      "reviewCount": 740,
+      "stock": 35,
+      "inStock": true,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "title": "Wireless mechanical keyboard for developers and gamers",
+      "description": "Wireless mechanical keyboard suitable for developers and gamers.",
+      "features": [
+        "Mechanical Switches",
+        "Bluetooth",
+        "RGB Backlight",
+        "Hot Swappable",
+        "USB-C",
+        "Mac and Windows Support"
+      ],
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+      ],
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "wireless",
+        "developer",
+        "gaming"
+      ],
+      "reviews": [
+        {
+          "user": "Sandeep",
+          "rating": 5,
+          "comment": "Great mechanical keyboard for programming."
+        }
+      ]
+    }
+  ]
+}

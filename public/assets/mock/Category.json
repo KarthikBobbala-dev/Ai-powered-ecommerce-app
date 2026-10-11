@@ -1,0 +1,54 @@
+{
+     "categories": [
+    {
+      "id": 1,
+      "name": "Mobiles",
+      "slug": "mobiles"
+    },
+    {
+      "id": 2,
+      "name": "Laptops",
+      "slug": "laptops"
+    },
+    {
+      "id": 3,
+      "name": "Tablets",
+      "slug": "tablets"
+    },
+    {
+      "id": 4,
+      "name": "Audio",
+      "slug": "audio"
+    },
+    {
+      "id": 5,
+      "name": "Televisions",
+      "slug": "televisions"
+    },
+    {
+      "id": 6,
+      "name": "Cameras",
+      "slug": "cameras"
+    },
+    {
+      "id": 7,
+      "name": "Wearables",
+      "slug": "wearables"
+    },
+    {
+      "id": 8,
+      "name": "Gaming",
+      "slug": "gaming"
+    },
+    {
+      "id": 9,
+      "name": "Home Appliances",
+      "slug": "home-appliances"
+    },
+    {
+      "id": 10,
+      "name": "Accessories",
+      "slug": "accessories"
+    }
+  ]
+}
